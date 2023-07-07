@@ -37,9 +37,9 @@ I'm studying AI
 
 <div align="center">
 
-![My github status](https://github-readme-stats.vercel.app/api?username=Yoon-SeokJin&show_icons=true&include_all_commits=true)
+![My github status](https://github-readme-stats.vercel.app/api?username=seokjin1013&show_icons=true&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoon-SeokJin&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seokjin1013&layout=compact&hide=jupyter%20notebook)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seokjin1013)](https://solved.ac/seokjin1013)
 
