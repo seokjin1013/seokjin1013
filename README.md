@@ -29,8 +29,12 @@ I'm studying AI
 
 ### etc
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![opengl](https://img.shields.io/badge/opengl-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
+![opencv](https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![gymnasium](https://img.shields.io/badge/gymnasium-0081A5?style=for-the-badge&logo=openaigym&logoColor=white)
+![ubuntu](https://img.shields.io/badge/wsl_ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 
 # Status
