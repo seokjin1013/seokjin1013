@@ -48,3 +48,14 @@ I'm studying AI
 [![CodeForces Profile](https://cf.leed.at?id=seokjin1013)](https://codeforces.com/profile/seokjin1013)
 
 </div>
+
+# Blog
+
+Github (9) 23.06.05.-
+https://seokjin1013.github.io/
+
+Velog (34) 23.01.07.-23.03.14.
+https://velog.io/@seokjin1013
+
+Naver blog (54) -21.12.31.
+https://blog.naver.com/paytain
