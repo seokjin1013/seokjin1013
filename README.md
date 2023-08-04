@@ -56,6 +56,3 @@ https://seokjin1013.github.io/
 
 Velog (34) 23.01.07.-23.03.14.
 https://velog.io/@seokjin1013
-
-Naver blog (54) -21.12.31.
-https://blog.naver.com/paytain
