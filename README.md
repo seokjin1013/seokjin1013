@@ -51,8 +51,6 @@ I'm studying AI
 
 # Blog
 
-Github (9) 23.06.05.-
-https://seokjin1013.github.io/
+Github blog https://seokjin1013.github.io/
 
-Velog (34) 23.01.07.-23.03.14.
-https://velog.io/@seokjin1013
+Velog https://velog.io/@seokjin1013
